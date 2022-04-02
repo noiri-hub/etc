@@ -1,0 +1,12 @@
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/obj/Debug/netcoreapp3.1/CSProject.csprojAssemblyReference.cache
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/obj/Debug/netcoreapp3.1/CSProject.AssemblyInfoInputs.cache
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/obj/Debug/netcoreapp3.1/CSProject.AssemblyInfo.cs
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/obj/Debug/netcoreapp3.1/CSProject.csproj.CoreCompileInputs.cache
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/bin/Debug/netcoreapp3.1/CSProject.deps.json
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/bin/Debug/netcoreapp3.1/CSProject.runtimeconfig.json
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/bin/Debug/netcoreapp3.1/CSProject.runtimeconfig.dev.json
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/bin/Debug/netcoreapp3.1/CSProject.dll
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/bin/Debug/netcoreapp3.1/CSProject.pdb
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/obj/Debug/netcoreapp3.1/CSProject.dll
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/obj/Debug/netcoreapp3.1/CSProject.pdb
+/Users/noiri/works/LeetCode/Move Zeroes/CSProject/obj/Debug/netcoreapp3.1/CSProject.genruntimeconfig.cache
